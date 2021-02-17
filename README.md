@@ -44,4 +44,4 @@ Lorem ipsum.
 
 Lorem ipsum.
 
-Je peux remonter [en haut de cette section](#tester-les-caractères-accentués-et-ou-spéciaux).
+Je peux remonter [en haut de cette section](#tester-les-caractères-accentués-etou-spéciaux).
